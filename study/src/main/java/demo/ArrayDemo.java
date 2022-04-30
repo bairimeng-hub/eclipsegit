@@ -12,6 +12,7 @@ public class ArrayDemo {
 		data[1][1]=4;
 		System.out.println(data[0][0]);
 		System.out.println("test");
+		System.out.println("test1");
 
 	}
 
